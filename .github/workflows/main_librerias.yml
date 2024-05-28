@@ -76,3 +76,6 @@ jobs:
           app-name: 'Librerias'
           slot-name: 'Production'
           
+    - name: Install distutils
+  run: pip install distutils
+          
